@@ -7,7 +7,6 @@ const RESOURCES = {
 "assets/AssetManifest.json": "4666e296bba7c25c777b41879b9a08db",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/notes/bukbog.md": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/notes/hkuhn.md": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/notes/test.md": "3b27b48f8423b5d391acdf7fb255fef6",
 "assets/NOTICES": "05ad9193cd05080a6caeed251868aaa9",
@@ -15,8 +14,8 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0c1380f64aebcc1dad895329df33db96",
-"/": "0c1380f64aebcc1dad895329df33db96",
+"index.html": "fd1aa34d2dae2434dec2041bef3b48f0",
+"/": "fd1aa34d2dae2434dec2041bef3b48f0",
 "main.dart.js": "b00c3a3186774a377b6cf412a63bd055",
 "manifest.json": "bc69ea8307a2ad456afd065b33580cd5",
 "version.json": "49a37825b512bc349e0b6e610b8bc5cc"
